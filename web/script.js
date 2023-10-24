@@ -28,14 +28,15 @@ function displaySelectedTask() {
             resultsDiv.innerHTML = tableHTML;
 
         // Handle 'genre_popularity' and 'genre_book_count' data structures
-        } else if (selectedTask === 'genre_popularity' || selectedTask === 'genre_book_count') {
-            const tableHeaders = ["Genre", "Count"];
-            let tableHTML = createTableFromHeaders(tableHeaders);
+        } else if (selectedTask === 'genre_popularity') {
+            const genreBookCount = data['genre_book_count'];
             
-            for (let genre in selectedData) {
-                const row = [genre, selectedData[genre]];
-                tableHTML += createTableRowFromData(row);
+            let tableHTML = '<table><thead><tr><th>Genre</th><th>Total Days Borrowed</th><th>Number of Books</th></tr></thead><tbody>';
+        
+            for (const genre in selectedData) {
+                tableHTML += `<tr><td>${genre}</td><td>${selectedData[genre]}</td><td>${genreBookCount[genre]}</td></tr>`;
             }
+        
             tableHTML += '</tbody></table>';
             resultsDiv.innerHTML = tableHTML;
 
