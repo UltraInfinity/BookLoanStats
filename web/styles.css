@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 40px;
-    background-color: blueviolet;
+    background-color: #8babf1;
 }
 
 table {
@@ -20,5 +20,5 @@ th, td {
 }
 
 th {
-    background-color: #8babf1;
+    background-color: aquamarine;
 }
