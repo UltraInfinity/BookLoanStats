@@ -1,0 +1,509 @@
+{
+    "book_popularity": {
+        "43": {
+            "title": "Tales Of Mystery And Imagination",
+            "author": "Edgar Allen Poe"
+        },
+        "54": {
+            "title": "The Complete Mastermind",
+            "author": "BBC"
+        },
+        "72": {
+            "title": "A Prisoner Of Birth",
+            "author": "Jeffery Archer"
+        },
+        "47": {
+            "title": "Asami Asami",
+            "author": "P L Deshpande"
+        },
+        "114": {
+            "title": "Selected Short Stories",
+            "author": "Unknown"
+        },
+        "119": {
+            "title": "Karl Marx Biography",
+            "author": "Unknown"
+        },
+        "98": {
+            "title": "Burning Bright",
+            "author": "John Steinbeck"
+        },
+        "83": {
+            "title": "India From Midnight To Milennium",
+            "author": "Shashi Tharoor"
+        },
+        "103": {
+            "title": "Beyond The Three Seas",
+            "author": "William Dalrymple"
+        },
+        "78": {
+            "title": "Gun Gayin Awadi",
+            "author": "P L Deshpande"
+        },
+        "66": {
+            "title": "Angels & Demons",
+            "author": "Dan Brown"
+        },
+        "85": {
+            "title": "The Great Indian Novel",
+            "author": "Shashi Tharoor"
+        },
+        "111": {
+            "title": "We The Living",
+            "author": "Ayn Rand"
+        },
+        "38": {
+            "title": "False Impressions",
+            "author": "Jeffery Archer"
+        },
+        "48": {
+            "title": "Journal Of A Novel",
+            "author": "John Steinbeck"
+        },
+        "112": {
+            "title": "The Artist And The Mathematician",
+            "author": "Amir Aczel"
+        },
+        "7": {
+            "title": "Integration Of The Indian States",
+            "author": "V P Menon"
+        },
+        "51": {
+            "title": "The Brethren",
+            "author": "John Grisham"
+        },
+        "39": {
+            "title": "The Last Lecture",
+            "author": "Randy Pausch"
+        },
+        "92": {
+            "title": "Bookless In Baghdad",
+            "author": "Shashi Tharoor"
+        },
+        "1": {
+            "title": "Fundamentals Of Wavelets",
+            "author": "Jaideva Goswami"
+        },
+        "31": {
+            "title": "The Wealth Of Nations",
+            "author": "Adam Smith"
+        },
+        "104": {
+            "title": "The World'S Greatest Short Stories",
+            "author": "Unknown"
+        },
+        "79": {
+            "title": "Aghal Paghal",
+            "author": "P L Deshpande"
+        },
+        "20": {
+            "title": "Physics & Philosophy",
+            "author": "Werner Heisenberg"
+        },
+        "61": {
+            "title": "A Modern Approach Computer Vision",
+            "author": "David Forsyth"
+        },
+        "65": {
+            "title": "Crime And Punishment",
+            "author": "Fyodor Dostoevsky"
+        },
+        "91": {
+            "title": "Free Will",
+            "author": "Sam Harris"
+        },
+        "21": {
+            "title": "Making Software",
+            "author": "Andy Oram"
+        },
+        "93": {
+            "title": "The Case Of The Lame Canary",
+            "author": "Earle Stanley Gardner"
+        },
+        "89": {
+            "title": "The Winter Of Our Discontent",
+            "author": "John Steinbeck"
+        },
+        "11": {
+            "title": "Data Scientists At Work",
+            "author": "Sebastian Gutierrez"
+        },
+        "37": {
+            "title": "The Veteran",
+            "author": "Frederick Forsyth"
+        },
+        "106": {
+            "title": "Vol 3 Maugham'S Collected Short Stories",
+            "author": "William S Maugham"
+        },
+        "63": {
+            "title": "Let Us C",
+            "author": "Yashwant Kanetkar"
+        },
+        "120": {
+            "title": "To Sir With Love",
+            "author": "Braithwaite"
+        },
+        "27": {
+            "title": "The Beautiful And The Damned",
+            "author": "Siddhartha Deb"
+        },
+        "94": {
+            "title": "The Theory Of Everything",
+            "author": "Stephen Hawking"
+        },
+        "116": {
+            "title": "Clash Of Civilizations And Remaking Of The World Order",
+            "author": "Samuel Huntington"
+        },
+        "5": {
+            "title": "Orientalism",
+            "author": "Edward Said"
+        },
+        "60": {
+            "title": "Data Structures Using C & C++",
+            "author": "Andrew Tanenbaum"
+        },
+        "16": {
+            "title": "The Trial",
+            "author": "Frank Kafka"
+        },
+        "56": {
+            "title": "Soft Computing & Intelligent Systems",
+            "author": "Madan Gupta"
+        },
+        "24": {
+            "title": "The Signal And The Noise",
+            "author": "Nate Silver"
+        },
+        "58": {
+            "title": "Econometric Analysis",
+            "author": "W. H. Greene"
+        },
+        "32": {
+            "title": "The Pillars Of The Earth",
+            "author": "Ken Follett"
+        },
+        "105": {
+            "title": "Talking Straight",
+            "author": "Lee Iacoca"
+        },
+        "88": {
+            "title": "Freedom At Midnight",
+            "author": "Dominique Lapierre"
+        },
+        "53": {
+            "title": "Catch 22",
+            "author": "Joseph Heller"
+        },
+        "36": {
+            "title": "A Farewell To Arms",
+            "author": "Ernest Hemingway"
+        },
+        "62": {
+            "title": "Principles Of Communication Systems",
+            "author": "Schilling Taub"
+        },
+        "107": {
+            "title": "The Phantom Of Manhattan",
+            "author": "Frederick Forsyth"
+        },
+        "2": {
+            "title": "Data Smart",
+            "author": "John Foreman"
+        },
+        "49": {
+            "title": "Once There Was A War",
+            "author": "John Steinbeck"
+        },
+        "12": {
+            "title": "Slaughterhouse Five",
+            "author": "Kurt Vonnegut"
+        },
+        "75": {
+            "title": "The Last Mughal",
+            "author": "William Dalrymple"
+        },
+        "15": {
+            "title": "The Age Of Wrath",
+            "author": "Abraham Eraly"
+        },
+        "84": {
+            "title": "The World'S Greatest Trials",
+            "author": "Unknown"
+        },
+        "87": {
+            "title": "The City Of Joy",
+            "author": "Dominique Lapierre"
+        },
+        "90": {
+            "title": "On Education",
+            "author": "Bertrand Russell"
+        },
+        "99": {
+            "title": "The Age Of Discontuinity",
+            "author": "Peter Drucker"
+        },
+        "41": {
+            "title": "Jurassic Park",
+            "author": "Michael Crichton"
+        },
+        "100": {
+            "title": "Doctor In The Nude",
+            "author": "Richard Gordon"
+        },
+        "17": {
+            "title": "Statistical Decision Theory'",
+            "author": "John Pratt"
+        },
+        "76": {
+            "title": "Vol 39 No. 1 Social Choice & Welfare",
+            "author": "Various"
+        },
+        "6": {
+            "title": "The Nature Of Statistical Learning Theory",
+            "author": "Vladimir Vapnik"
+        },
+        "117": {
+            "title": "Uncommon Wisdom",
+            "author": "Fritjof Capra"
+        },
+        "30": {
+            "title": "The Complete Sherlock Holmes Vol Ii",
+            "author": "Arthur Conan Doyle"
+        },
+        "33": {
+            "title": "Mein Kampf",
+            "author": "Adolf Hitler"
+        },
+        "55": {
+            "title": "Dylan On Dylan",
+            "author": "Bob Dylan"
+        },
+        "109": {
+            "title": "Zen & The Art Of Motorcycle Maintenance",
+            "author": "Robert Pirsig"
+        },
+        "110": {
+            "title": "The Great War For Civilization",
+            "author": "Robert Fisk"
+        },
+        "82": {
+            "title": "Manasa",
+            "author": "V P Kale"
+        },
+        "19": {
+            "title": "The New Machiavelli",
+            "author": "H. G. Wells"
+        },
+        "14": {
+            "title": "Structure & Interpretation Of Computer Programs",
+            "author": "Gerald Sussman"
+        },
+        "80": {
+            "title": "Maqta-E-Ghalib",
+            "author": "Sanjay Garg"
+        },
+        "23": {
+            "title": "Machine Learning For Hackers",
+            "author": "Drew Conway"
+        },
+        "8": {
+            "title": "The Drunkard'S Walk",
+            "author": "Leonard Mlodinow"
+        },
+        "10": {
+            "title": "How To Think Like Sherlock Holmes",
+            "author": "Maria Konnikova"
+        },
+        "95": {
+            "title": "New Markets & Other Essays",
+            "author": "Peter Drucker"
+        },
+        "22": {
+            "title": "Vol I Analysis",
+            "author": "Terence Tao"
+        },
+        "64": {
+            "title": "The Amulet Of Samarkand",
+            "author": "Jonathan Stroud"
+        },
+        "68": {
+            "title": "Sea Of Poppies",
+            "author": "Amitav Ghosh"
+        },
+        "115": {
+            "title": "Rationality & Freedom",
+            "author": "Amartya Sen"
+        },
+        "45": {
+            "title": "The Hidden Connections",
+            "author": "Fritjof Capra"
+        },
+        "25": {
+            "title": "Python For Data Analysis",
+            "author": "Wes Mckinney"
+        },
+        "102": {
+            "title": "Identity & Violence",
+            "author": "Amartya Sen"
+        },
+        "34": {
+            "title": "The Tao Of Physics",
+            "author": "Fritjof Capra"
+        },
+        "52": {
+            "title": "In A Free State",
+            "author": "V. S. Naipaul"
+        },
+        "97": {
+            "title": "The Hunchback Of Notre Dame",
+            "author": "Victor Hugo"
+        },
+        "26": {
+            "title": "Introduction To Algorithms",
+            "author": "Thomas Cormen"
+        },
+        "28": {
+            "title": "The Outsider",
+            "author": "Albert Camus"
+        },
+        "69": {
+            "title": "The Idea Of Justice",
+            "author": "Amartya Sen"
+        },
+        "9": {
+            "title": "Image Processing & Mathematical Morphology",
+            "author": "Frank Shih"
+        },
+        "3": {
+            "title": "God Created The Integers",
+            "author": "Stephen Hawking"
+        },
+        "81": {
+            "title": "Beyond Degrees",
+            "author": "Unknown"
+        },
+        "46": {
+            "title": "The Story Of Philosophy",
+            "author": "Will Durant"
+        },
+        "73": {
+            "title": "Scoop!",
+            "author": "Kuldip Nayar"
+        },
+        "70": {
+            "title": "A Raisin In The Sun",
+            "author": "Lorraine Hansberry"
+        },
+        "96": {
+            "title": "Electric Universe",
+            "author": "David Bodanis"
+        },
+        "29": {
+            "title": "The Complete Sherlock Holmes Vol I",
+            "author": "Arthur Conan Doyle"
+        },
+        "77": {
+            "title": "Radiowaril Bhashane & Shrutika",
+            "author": "P L Deshpande"
+        },
+        "44": {
+            "title": "Freakonomics",
+            "author": "Stephen Dubner"
+        },
+        "4": {
+            "title": "Superfreakonomics",
+            "author": "Stephen Dubner"
+        },
+        "18": {
+            "title": "Data Mining Handbook",
+            "author": "Robert Nisbet"
+        },
+        "42": {
+            "title": "A Russian Journal",
+            "author": "John Steinbeck"
+        },
+        "50": {
+            "title": "The Moon Is Down",
+            "author": "John Steinbeck"
+        },
+        "101": {
+            "title": "Down And Out In Paris & London",
+            "author": "George Orwell"
+        },
+        "118": {
+            "title": "One",
+            "author": "Richard Bach"
+        },
+        "86": {
+            "title": "O Jerusalem!",
+            "author": "Dominique Lapierre"
+        },
+        "40": {
+            "title": "Return Of The Primitive",
+            "author": "Ayn Rand"
+        },
+        "57": {
+            "title": "Textbook Of Economic Theory",
+            "author": "Alfred Stonier"
+        },
+        "35": {
+            "title": "Surely You'Re Joking Mr Feynman",
+            "author": "Richard Feynman"
+        },
+        "67": {
+            "title": "The Argumentative Indian",
+            "author": "Amartya Sen"
+        },
+        "74": {
+            "title": "Ahe Manohar Tari",
+            "author": "Sunita Deshpande"
+        },
+        "71": {
+            "title": "All The President'S Men",
+            "author": "Bob Woodward"
+        },
+        "113": {
+            "title": "History Of Western Philosophy",
+            "author": "Bertrand Russell"
+        },
+        "108": {
+            "title": "Ashenden Of The British Agent",
+            "author": "William S Maugham"
+        },
+        "59": {
+            "title": "Learning Opencv",
+            "author": "Gary Bradsky"
+        },
+        "13": {
+            "title": "Birth Of A Theorem",
+            "author": "Cedric Villani"
+        }
+    },
+    "genre_popularity": {
+        "Fiction": 7332,
+        "Science": 1526,
+        "Tech": 3776,
+        "Unknown": 2476,
+        "Non-fiction": 6040,
+        "Philosophy": 985
+    },
+    "genre_book_count": {
+        "Fiction": 701,
+        "Science": 150,
+        "Tech": 386,
+        "Unknown": 244,
+        "Non-fiction": 577,
+        "Philosophy": 100
+    },
+    "loan_statistics": {
+        "total_loan_days": 22135,
+        "total_loan_count": 2158,
+        "average_loan_days": 10.257182576459686,
+        "total_late_loan_days": 2144,
+        "total_late_loan_count": 613,
+        "average_late_loan_days": 3.497553017944535,
+        "percentage_returned_late": 28.405931417979613
+    }
+}

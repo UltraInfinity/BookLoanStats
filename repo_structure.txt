@@ -1,0 +1,12 @@
+├── data/
+│   ├── books.csv
+│   └── bookloans.csv
+├── notebooks/
+│   └── analysis.ipynb
+├── web/
+│   ├── index.html
+│   ├── styles.css
+│   ├── script.js
+│   └── results.json
+├── README.md
+└── .gitignore

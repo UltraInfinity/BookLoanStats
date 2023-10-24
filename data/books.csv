@@ -1,0 +1,121 @@
+Number,Title,Author,Genre,SubGenre,Publisher
+1,Fundamentals Of Wavelets,Jaideva Goswami,Tech,Signal Processing,Wiley
+2,Data Smart,John Foreman,Tech,Data Science,Wiley
+3,God Created The Integers,Stephen Hawking,Tech,Mathematics,Penguin
+4,Superfreakonomics,Stephen Dubner,Science,Economics,Harper Collins
+5,Orientalism,Edward Said,Non-fiction,History,Penguin
+6,The Nature Of Statistical Learning Theory,Vladimir Vapnik,Tech,Data Science,Springer
+7,Integration Of The Indian States,V P Menon,Non-fiction,History,Orient Blackswan
+8,The Drunkard'S Walk,Leonard Mlodinow,Science,Mathematics,Penguin
+9,Image Processing & Mathematical Morphology,Frank Shih,Tech,Signal Processing,CRC
+10,How To Think Like Sherlock Holmes,Maria Konnikova,Non-fiction,Psychology,Penguin
+11,Data Scientists At Work,Sebastian Gutierrez,Tech,Data Science,Apress
+12,Slaughterhouse Five,Kurt Vonnegut,Fiction,Classic,Random House
+13,Birth Of A Theorem,Cedric Villani,Science,Mathematics,Bodley Head
+14,Structure & Interpretation Of Computer Programs,Gerald Sussman,Tech,Computer Science,MIT Press
+15,The Age Of Wrath,Abraham Eraly,Non-fiction,History,Penguin
+16,The Trial,Frank Kafka,Fiction,Classic,Random House
+17,Statistical Decision Theory',John Pratt,Tech,Data Science,MIT Press
+18,Data Mining Handbook,Robert Nisbet,Tech,Data Science,Apress
+19,The New Machiavelli,H. G. Wells,Fiction,Novel,Penguin
+20,Physics & Philosophy,Werner Heisenberg,Philosophy,Science,Penguin
+21,Making Software,Andy Oram,Tech,Computer Science,O'Reilly
+22,Vol I Analysis,Terence Tao,Tech,Mathematics,HBA
+23,Machine Learning For Hackers,Drew Conway,Tech,Data Science,O'Reilly
+24,The Signal And The Noise,Nate Silver,Tech,Data Science,Penguin
+25,Python For Data Analysis,Wes Mckinney,Tech,Data Science,O'Reilly
+26,Introduction To Algorithms,Thomas Cormen,Tech,Computer Science,MIT Press
+27,The Beautiful And The Damned,Siddhartha Deb,Non-fiction,History,Penguin
+28,The Outsider,Albert Camus,Fiction,Classic,Penguin
+29,The Complete Sherlock Holmes Vol I,Arthur Conan Doyle,Fiction,Classic,Random House
+30,The Complete Sherlock Holmes Vol Ii,Arthur Conan Doyle,Fiction,Classic,Random House
+31,The Wealth Of Nations,Adam Smith,Science,Economics,Random House
+32,The Pillars Of The Earth,Ken Follett,Fiction,Novel,Random House
+33,Mein Kampf,Adolf Hitler,Non-fiction,Autobiography,Rupa
+34,The Tao Of Physics,Fritjof Capra,Science,Physics,Penguin
+35,Surely You'Re Joking Mr Feynman,Richard Feynman,Science,Physics,Random House
+36,A Farewell To Arms,Ernest Hemingway,Fiction,Classic,Rupa
+37,The Veteran,Frederick Forsyth,Fiction,Novel,Transworld
+38,False Impressions,Jeffery Archer,Fiction,Novel,Pan
+39,The Last Lecture,Randy Pausch,Non-fiction,Autobiography,Hyperion
+40,Return Of The Primitive,Ayn Rand,Philosophy,Objectivism,Penguin
+41,Jurassic Park,Michael Crichton,Fiction,Novel,Random House
+42,A Russian Journal,John Steinbeck,Non-fiction,History,Penguin
+43,Tales Of Mystery And Imagination,Edgar Allen Poe,Fiction,Classic,Harper Collins
+44,Freakonomics,Stephen Dubner,Science,Economics,Penguin
+45,The Hidden Connections,Fritjof Capra,Science,Physics,Harper Collins
+46,The Story Of Philosophy,Will Durant,Philosophy,History,Pocket
+47,Asami Asami,P L Deshpande,Fiction,Novel,Mauj
+48,Journal Of A Novel,John Steinbeck,Fiction,Classic,Penguin
+49,Once There Was A War,John Steinbeck,Non-fiction,History,Penguin
+50,The Moon Is Down,John Steinbeck,Fiction,Classic,Penguin
+51,The Brethren,John Grisham,Fiction,Novel,Random House
+52,In A Free State,V. S. Naipaul,Fiction,Novel,Rupa
+53,Catch 22,Joseph Heller,Fiction,Classic,Random House
+54,The Complete Mastermind,BBC,Non-fiction,Trivia,BBC
+55,Dylan On Dylan,Bob Dylan,Non-fiction,Autobiography,Random House
+56,Soft Computing & Intelligent Systems,Madan Gupta,Tech,Data Science,Elsevier
+57,Textbook Of Economic Theory,Alfred Stonier,Tech,Economics,Pearson
+58,Econometric Analysis,W. H. Greene,Tech,Economics,Pearson
+59,Learning Opencv,Gary Bradsky,Tech,Signal Processing,O'Reilly
+60,Data Structures Using C & C++,Andrew Tanenbaum,Tech,Computer Science,Prentice Hall
+61,A Modern Approach Computer Vision,David Forsyth,Tech,Signal Processing,Pearson
+62,Principles Of Communication Systems,Schilling Taub,Tech,Signal Processing,TMH
+63,Let Us C,Yashwant Kanetkar,Tech,Computer Science,Prentice Hall
+64,The Amulet Of Samarkand,Jonathan Stroud,Fiction,Novel,Random House
+65,Crime And Punishment,Fyodor Dostoevsky,Fiction,Classic,Penguin
+66,Angels & Demons,Dan Brown,Fiction,Novel,Random House
+67,The Argumentative Indian,Amartya Sen,Non-fiction,History,Picador
+68,Sea Of Poppies,Amitav Ghosh,Fiction,Novel,Penguin
+69,The Idea Of Justice,Amartya Sen,Philosophy,Economics,Penguin
+70,A Raisin In The Sun,Lorraine Hansberry,Fiction,Novel,Penguin
+71,All The President'S Men,Bob Woodward,Non-fiction,History,Random House
+72,A Prisoner Of Birth,Jeffery Archer,Fiction,Novel,Pan
+73,Scoop!,Kuldip Nayar,Non-fiction,History,Harper Collins
+74,Ahe Manohar Tari,Sunita Deshpande,Non-fiction,Autobiography,Mauj
+75,The Last Mughal,William Dalrymple,Non-fiction,History,Penguin
+76,Vol 39 No. 1 Social Choice & Welfare,Various,Tech,Economics,Springer
+77,Radiowaril Bhashane & Shrutika,P L Deshpande,Non-fiction,Misc,Mauj
+78,Gun Gayin Awadi,P L Deshpande,Non-fiction,Misc,Mauj
+79,Aghal Paghal,P L Deshpande,Non-fiction,Misc,Mauj
+80,Maqta-E-Ghalib,Sanjay Garg,Non-fiction,Poetry,Mauj
+81,Beyond Degrees,Unknown,Philosophy,Education,Harper Collins
+82,Manasa,V P Kale,Non-fiction,Misc,Mauj
+83,India From Midnight To Milennium,Shashi Tharoor,Non-fiction,History,Penguin
+84,The World'S Greatest Trials,Unknown,Non-fiction,History,Unknown
+85,The Great Indian Novel,Shashi Tharoor,Fiction,Novel,Penguin
+86,O Jerusalem!,Dominique Lapierre,Non-fiction,History,Vikas
+87,The City Of Joy,Dominique Lapierre,Fiction,Novel,Vikas
+88,Freedom At Midnight,Dominique Lapierre,Non-fiction,History,Vikas
+89,The Winter Of Our Discontent,John Steinbeck,Fiction,Classic,Penguin
+90,On Education,Bertrand Russell,Philosophy,Education,Routledge
+91,Free Will,Sam Harris,Non-fiction,Psychology,Freepress
+92,Bookless In Baghdad,Shashi Tharoor,Non-fiction,History,Penguin
+93,The Case Of The Lame Canary,Earle Stanley Gardner,Fiction,Novel,Unknown
+94,The Theory Of Everything,Stephen Hawking,Science,Physics,Jaico
+95,New Markets & Other Essays,Peter Drucker,Science,Economics,Penguin
+96,Electric Universe,David Bodanis,Science,Physics,Penguin
+97,The Hunchback Of Notre Dame,Victor Hugo,Fiction,Classic,Random House
+98,Burning Bright,John Steinbeck,Fiction,Classic,Penguin
+99,The Age Of Discontuinity,Peter Drucker,Non-fiction,Economics,Random House
+100,Doctor In The Nude,Richard Gordon,Fiction,Novel,Penguin
+101,Down And Out In Paris & London,George Orwell,Non-fiction,Autobiography,Penguin
+102,Identity & Violence,Amartya Sen,Philosophy,Philosophy,Penguin
+103,Beyond The Three Seas,William Dalrymple,Non-fiction,History,Random House
+104,The World'S Greatest Short Stories,Unknown,Fiction,Classic,Jaico
+105,Talking Straight,Lee Iacoca,Non-fiction,Autobiography,Unknown
+106,Vol 3 Maugham'S Collected Short Stories,William S Maugham,Fiction,Classic,Vintage
+107,The Phantom Of Manhattan,Frederick Forsyth,Fiction,Classic,Unknown
+108,Ashenden Of The British Agent,William S Maugham,Fiction,Classic,Vintage
+109,Zen & The Art Of Motorcycle Maintenance,Robert Pirsig,Philosophy,Autobiography,Vintage
+110,The Great War For Civilization,Robert Fisk,Non-fiction,History,Harper Collins
+111,We The Living,Ayn Rand,Fiction,Novel,Penguin
+112,The Artist And The Mathematician,Amir Aczel,Science,Mathematics,Highstakes
+113,History Of Western Philosophy,Bertrand Russell,Philosophy,Philosophy,Routledge
+114,Selected Short Stories,Unknown,Fiction,Classic,Jaico
+115,Rationality & Freedom,Amartya Sen,Science,Economics,Springer
+116,Clash Of Civilizations And Remaking Of The World Order,Samuel Huntington,Non-fiction,History,Simon & Schuster
+117,Uncommon Wisdom,Fritjof Capra,Non-fiction,Anthology,Fontana
+118,One,Richard Bach,Non-fiction,Autobiography,Dell
+119,Karl Marx Biography,Unknown,Non-fiction,Autobiography,Unknown
+120,To Sir With Love,Braithwaite,Fiction,Classic,Penguin
