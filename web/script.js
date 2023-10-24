@@ -41,19 +41,34 @@ function displaySelectedTask() {
 
         // Handle 'loan_statistics' data structure
         } else if (selectedTask === 'loan_statistics') {
-            const tableHeaders = Object.keys(selectedData);
-            let tableHTML = createTableFromHeaders(tableHeaders);
+            const statisticsOrder = [
+                { key: "total_loan_days", label: "Total Loan Days" },
+                { key: "total_loan_count", label: "Total Loan Count" },
+                { key: "average_loan_days", label: "Average Loan Days" },
+                { key: "total_late_loan_days", label: "Total Late Loan Days" },
+                { key: "total_late_loan_count", label: "Total Late Loan Count" },
+                { key: "average_late_loan_days", label: "Average Late Loan Days" },
+                { key: "percentage_returned_late", label: "Percentage Returned Late" }
+    ];
 
-            tableHTML += '<tr>';
-            tableHeaders.forEach(header => {
-                tableHTML += `<td>${selectedData[header]}</td>`;
-            });
-            tableHTML += '</tr>';
-            tableHTML += '</tbody></table>';
-            resultsDiv.innerHTML = tableHTML;
+
+    let tableHTML = '<table><thead><tr><th>Statistic</th><th>Value</th></tr></thead><tbody>';
+
+    for (const stat of statisticsOrder) {
+        let value = selectedData[stat.key];
+        // Format values if needed
+        if (stat.key === "average_loan_days" || stat.key === "average_late_loan_days") {
+            value = value.toFixed(2);
+        } else if (stat.key === "percentage_returned_late") {
+            value = `${value.toFixed(2)}%`;
         }
-    });
+        tableHTML += `<tr><td>${stat.label}</td><td>${value}</td></tr>`;
+    }
+
+    tableHTML += '</tbody></table>';
+    resultsDiv.innerHTML = tableHTML;
 }
+
 
 function createTableFromHeaders(headers) {
     let tableHTML = '<table><thead><tr>';
