@@ -1,5 +1,5 @@
 # BookLoanStats
-
+<img alt="Demo" src="./web/thumbnail.png" />
 ## Overview
 
 * **Task 1 - Book Popularity**: Analysis and statistics on the popularity of books.
