@@ -1,0 +1,13 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python environment and bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+
+# OS generated files
+.DS_Store  # For MacOS
+Thumbs.db  # For Windows
