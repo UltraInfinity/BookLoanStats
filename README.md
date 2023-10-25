@@ -9,7 +9,7 @@
 ## How to View
 
 1. **Jupyter Notebook**: Navigate to the `notebooks` directory and view `analysis.ipynb` for the full Python analysis.
-2. **Web Demo**: [Link to Vercel deployment]
+2. **Web Demo**: [https://book-loan-stats.vercel.app/]
 
 ## Dataset
 
